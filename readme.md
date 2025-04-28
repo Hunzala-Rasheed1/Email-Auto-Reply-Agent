@@ -129,9 +129,6 @@ The script is configured to use Together.ai, but can be adapted for other LLM pr
 - **Rate Limits**: Increase `CHECK_FREQUENCY` if hitting API rate limits
 - **Email Format Problems**: Some complex emails may not parse correctly
 
-## License
-
-MIT
 
 ## Contributing
 
